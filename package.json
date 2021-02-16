@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/OLAOOT/movieql.git"
   },
-  "author": "olaoot",
+  "author": "olaoot <furin1998@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OLAOOT/movieql/issues"
